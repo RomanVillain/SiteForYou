@@ -1,8 +1,6 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f2f2f2;
-    padding-left: 128px;
-    padding-right: 128px;
 }
 
 h1 {
@@ -11,20 +9,22 @@ h1 {
 }
 
 h2 {
-    color: rgb(0, 251, 17);
+    color:rgb(0, 251, 17);
     text-align: center;
 }
 
 h3 {
     color: #07fb2c;
-    text-align: justify;
+    text-align:justify;
     text-decoration: none;
 }
 
 ul {
     color: #ffffff;
+
 }
 
 section {
-    color: #ffffff;
-}
+    color:#ffffff; 
+
+} 
